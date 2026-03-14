@@ -1,28 +1,28 @@
-# Company Communication Language
+# 公司沟通语言
 
-Effective date: 2026-03-14
-Owner: CEO
+生效日期：2026-03-14
+所有者：CEO
 
-## Policy
-- Primary language: Chinese (Mandarin).
-- Secondary support: English for external partners, global tooling, and non-Chinese stakeholders.
+## 政策
+- 主要语言：中文（普通话）。
+- 次要支持：英语用于外部合作伙伴、全球工具和非中文利益相关者。
 
-## Rationale
-- Aligns with board directive and majority stakeholder language.
-- Maintains English compatibility where industry-standard (tooling, ecosystems, external vendors).
+## 理由
+- 与董事会指令和多数利益相关者语言保持一致。
+- 在行业标准（工具、生态系统、外部供应商）方面保持英语兼容性。
 
-## Rules
-- Canonical docs: Chinese-first with an English summary section at the end. For third-party publishing that requires English, provide a Chinese version in `docs/zh/`.
-- Code: Keep identifiers, comments, and commit messages in English for ecosystem compatibility.
-- Issues: Write in Chinese-first. Include a one-line English summary at the top when closing, handing off, or when non-Chinese collaborators are involved.
-- Meetings: Default to Chinese. Post an English summary when attendees include non-Chinese speakers or the outcome affects global partners.
-- External content: Match audience. China-facing materials may be Chinese-only with optional English summary; global content should be English with a Chinese summary.
-- Translations: Prefer human-in-the-loop. Use machine translation for drafts; review before publishing.
+## 规则
+- 规范文档：以中文为主，最后附英文摘要部分。对于需要英语的第三方发布，在 `docs/zh/` 中提供中文版本。
+- 代码：为生态兼容性，将标识符、注释和提交消息保持为英语。
+- Issues: 以中文为主。在关闭、移交或涉及非中文协作者时，在顶部包含一行英文摘要。
+- 会议：默认为中文。当与会者包括非中文发言者或结果影响全球合作伙伴时，发布英文摘要。
+- 外部内容：匹配受众。中国面向的材料可以仅中文，可选英文摘要；全球内容应为英语，并附中文摘要。
+- 翻译：优先人工参与。使用机器翻译作为草稿；在发布前审查。
 
-## Operational Notes
-- Templates: Provide bilingual issue/PR templates where appropriate.
-- Time/Date: Use ISO-8601 (YYYY-MM-DD) and UTC offsets.
-- Glossary: Add domain terms to a shared `docs/glossary.md` as they stabilize.
+## 操作说明
+- Templates: 在适当情况下提供双语 issue/PR 模板。
+- 时间/日期：使用 ISO-8601 (YYYY-MM-DD) 和 UTC 偏移。
+- 词汇表：随着稳定，将领域术语添加到共享的 `docs/glossary.md` 中。
 
-## Review
-- Revisit quarterly; adjust based on team composition and customer mix.
+## 审查
+- 每季度重新审视；根据团队组成和客户组合进行调整。

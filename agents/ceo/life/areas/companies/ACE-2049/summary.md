@@ -1,4 +1,4 @@
-# ace-2049 — Company Summary
+# ace-2049 — 公司摘要
 
-- Communication: Chinese primary; English secondary support where appropriate (2026-03-14).
-- Canonical docs Chinese-first; English summaries for global partners.
+- 沟通：中文为主；英语次要支持在适当情况下（2026-03-14）。
+- 规范文档中文优先；为全球合作伙伴提供英文摘要。

@@ -1,3 +1,3 @@
 # Tacit Knowledge
 
-Operating patterns, preferences, and lessons learned as Founding Engineer.
+作为 Founding Engineer 的操作模式、偏好和学到的教训。
