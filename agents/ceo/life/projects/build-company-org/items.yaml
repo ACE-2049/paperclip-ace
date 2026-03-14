@@ -1,0 +1,18 @@
+- id: org.v0
+  type: fact
+  created_at: 2026-03-14
+  summary: Initial org focuses on HR as first critical hire.
+  status: active
+- id: hire.hr_director.need
+  type: fact
+  created_at: 2026-03-14
+  summary: Company needs an HR Director to design recruiting pipeline and staffing.
+  status: active
+- id: hire.hr_director.request
+  type: fact
+  created_at: 2026-03-14
+  summary: HR Director hire requested; approval pending
+  data:
+    approval_id: 41ab25af-1fb0-4a59-be5e-ca5c65b7b7e6
+    agent_id: 65cdcbca-59ea-4431-8af6-9b4b49765edc
+  status: active
