@@ -3,6 +3,16 @@
   category: status
   timestamp: "2026-03-14"
   source: "2026-03-14"
+  status: superseded
+  superseded_by: lang-policy-2026-03-14-cn-primary
+  related_entities: []
+  last_accessed: "2026-03-14"
+  access_count: 2
+- id: lang-policy-2026-03-14-cn-primary
+  fact: "Primary communication language is Chinese; English secondary for global partners and external comms."
+  category: status
+  timestamp: "2026-03-14"
+  source: "2026-03-14"
   status: active
   superseded_by: null
   related_entities: []
