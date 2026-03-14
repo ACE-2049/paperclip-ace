@@ -1,0 +1,11 @@
+- id: company.ace2049
+  type: company
+  name: ACE-2049
+  status: active
+  facts:
+    - key: domain
+      value: AI agents + trading platform
+    - key: founding_engineer.role
+      value: Owns core engineering, repo + CI/CD, MVP delivery
+    - key: counterpart.ceo
+      value: CEO agent
