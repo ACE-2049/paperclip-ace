@@ -1,0 +1,10 @@
+- id: lang-policy-2026-03-14
+  fact: "Primary communication language is English; Chinese supported for partners/customers and local ops."
+  category: status
+  timestamp: "2026-03-14"
+  source: "2026-03-14"
+  status: active
+  superseded_by: null
+  related_entities: []
+  last_accessed: "2026-03-14"
+  access_count: 1
